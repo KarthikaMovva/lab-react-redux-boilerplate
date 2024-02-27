@@ -1,4 +1,4 @@
-import State from "./Components/State";
+import State from "./Components/LikeCounter";
 import "./App.css"
 
 function App(){

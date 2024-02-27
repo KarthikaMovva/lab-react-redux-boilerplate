@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import {Provider} from "react-redux"
 import {legacy_createStore as createStore} from "redux";
-import Reduce from './Components/Reduce.jsx'
+import Reduce from './Components/Reducer.jsx'
 
 const data=createStore(Reduce)
 
